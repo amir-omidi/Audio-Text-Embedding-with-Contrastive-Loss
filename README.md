@@ -6,7 +6,7 @@ This project explores the alignment between audio and text data using deep learn
 
 ## Dataset
 
-This project uses the ESC-50: Dataset for Environmental Sound Classification dataset, which consists of paired audio and text data. Each pair contains an audio clip and its corresponding textual description. The audio data is preprocessed to extract features, and the text data is used to generate embeddings for comparison.
+This project uses the [ESC-50](https://github.com/karolpiczak/ESC-50): Dataset for Environmental Sound Classification dataset, which consists of paired audio and text data. Each pair contains an audio clip and its corresponding textual description. The audio data is preprocessed to extract features, and the text data is used to generate embeddings for comparison.
 
 ## Project Structure
 
