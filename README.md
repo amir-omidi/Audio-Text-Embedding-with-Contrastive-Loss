@@ -49,7 +49,7 @@ You can install the required libraries with:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Contact Me
 
